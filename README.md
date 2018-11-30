@@ -1,5 +1,5 @@
 # PServerUIPlus
-#this plugin was made for users of korea and thise who speaks korean
+#this plugin was made for users of korea and those who speak korean
 
 @ 사용법: /제어
 
